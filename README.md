@@ -1,10 +1,3 @@
-Your token is 100% safe nga — the `.env` file is in `.gitignore` so it never got pushed to GitHub. Anyone who looks at your code will NOT see your token.
-
-Here's a clean README for Clutch:
-
----
-
-```markdown
 # Clutch Bot 🎮
 
 A Discord bot built for gamers. Clutch keeps everything inside your server so you never have to open a new tab.
@@ -35,5 +28,6 @@ Add Clutch to your server: [Click Here](https://discord.com/oauth2/authorize?cli
 ## Author
 
 Built by Ronthenub
-```
+
+
 
