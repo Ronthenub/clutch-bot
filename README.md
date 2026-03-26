@@ -30,6 +30,4 @@ Add Clutch to your server: [Click Here](https://discord.com/oauth2/authorize?cli
 Built by Ronthenub
 
 
-git add .
-git commit -m "added README"
-git push
+
